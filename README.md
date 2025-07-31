@@ -1,8 +1,3 @@
 # Banking-System-Simulator
 
-Banking System Simulator
-Python | Arizona State University – CIS345
-•	Developed a terminal-based banking application simulating customer account management, secure PIN authentication, and transaction processing
-•	Utilized JSON for data persistence and CSV for transaction logging; implemented real-time balance updates and validation handling
-•	Integrated custom logging module and calculated account averages using Python's statistics module
-•	Demonstrated structured error handling, file operations, and modular programming for a user-facing system
+Developed a terminal-based banking application in Python for ASU’s CIS345 course that simulated customer account management, secure PIN authentication, and transaction processing. The system used JSON for persistent storage and CSV files for transaction logging, with real-time balance updates and input validation. A custom logging module was integrated, and account averages were calculated using Python’s statistics module. The project demonstrated skills in modular programming, structured error handling, and file operations within a user-facing system.
